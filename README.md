@@ -6,4 +6,4 @@ Way to create protocols for reusable methods! OOP Composition concept
 
 ## Medium Post
 
-https://medium.com/@alexalmostengineer/dry-principle-of-software-development-common-mistake-ef014d8f389e
+https://medium.com/@alexalmostengineer/composition-and-inheritance-oop-concepts-at-work-2130ba1ac8a0
